@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning, NLP
 - 🌱 I’m currently learning machine learning in R and Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - Email: studygoyani@gmail.com
+- 📫 How to reach me - Email: zankrut20@gmail.com
 
 <!---
 zankrut20/zankrut20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
