@@ -81,13 +81,13 @@
       <p><em>Plant Breeding · Biometrics · Agriculture</em></p>
     </td>
     <td width="33%" valign="top">
-      <h3>🔒 PrivacyQR <sub><sup>Private</sup></sub></h3>
+      <h3>🔒 <a href="https://play.google.com/store/apps/details?id=com.goyaniApps.privacyqr.pro">PrivacyQR Pro</a></h3>
       <p>Generate QR Codes with privacy. Works 100% offline on your device — zero data harvesting, ever.</p>
       <p>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
         <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
       </p>
-      <p><em>Mobile · Privacy · Android</em></p>
+      <p><em>Mobile · Privacy · Android</em> · <a href="https://play.google.com/store/apps/details?id=com.goyaniApps.privacyqr.pro">▶ Google Play</a></p>
     </td>
     <td width="33%" valign="top">
       <h3>🤫 <a href="https://github.com/zankrut20/PoliteIgnore">PoliteIgnore</a></h3>
