@@ -14,7 +14,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zankrut20&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/zankrut20)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zankrut20&theme=midnight_purple" alt="Zankrut's Profile Details" />
 
 </div>
 
@@ -76,6 +76,7 @@
       <p>
         <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+        <img src="https://img.shields.io/badge/License-GPL--3.0-blue?style=flat-square" />
       </p>
       <p><em>Plant Breeding · Biometrics · Agriculture</em></p>
     </td>
