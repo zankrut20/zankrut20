@@ -108,16 +108,6 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zankrut20&theme=midnight_purple" alt="Zankrut's GitHub Stats" height="180" />
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zankrut20&theme=midnight_purple" alt="Top Languages by Repo" height="180" />
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zankrut20&theme=midnight_purple&utcOffset=5.5" alt="Productive Hours (IST)" height="180" />
-
-</div>
-
-<div align="center">
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=zankrut20&theme=midnight-purple&hide_border=true)
 
 </div>
