@@ -2,9 +2,19 @@
 
 # Hey there, I'm Zankrut Goyani! 👋
 
+*Building at the intersection of data science, mobile, and agriculture.*
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7A7ADB&center=true&vCenter=true&random=false&width=500&lines=ML+%26+Data+Science+Enthusiast;Android+Developer;Plant+Breeding+%26+Biometrics;Open+to+New+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=flat&logo=github&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=zankrut20&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/zankrut20)
 
 </div>
 
@@ -21,7 +31,14 @@
 
 ---
 
-## 🛠 Tech Stack
+## � Currently Working On
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+## �🛠 Tech Stack
 
 **Languages**
 
@@ -49,7 +66,7 @@
 
 ---
 
-## � Featured Projects
+## 🚀 Featured Projects
 
 <table>
   <tr>
@@ -77,8 +94,9 @@
       <p>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
         <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/MIT-License-yellow?style=flat-square" />
       </p>
-      <p><em>Mobile · Productivity · Android</em></p>
+      <p><em>Mobile · Productivity · Android</em> · <a href="https://github.com/zankrut20/PoliteIgnore/releases">📦 Releases</a></p>
     </td>
   </tr>
 </table>
@@ -92,6 +110,8 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zankrut20&theme=midnight_purple" alt="Zankrut's GitHub Stats" height="180" />
 &nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zankrut20&theme=midnight_purple" alt="Top Languages by Repo" height="180" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zankrut20&theme=midnight_purple&utcOffset=5.5" alt="Productive Hours (IST)" height="180" />
 
 </div>
 
@@ -112,7 +132,7 @@
 ## 🤝🏻 Connect with Me
 
 <p align="center">
-&nbsp; <a href="https://twitter.com/GoyaniZankrut" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+&nbsp; <a href="https://x.com/GoyaniZankrut" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 &nbsp; <a href="https://www.instagram.com/goyani_zankrut/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 &nbsp; <a href="https://www.linkedin.com/in/zankrutgoyani/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &nbsp; <a href="mailto:zankrut20@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
